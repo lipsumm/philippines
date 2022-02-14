@@ -1,6 +1,6 @@
 [
   { "name": "NCR", "long": "National Capital Region", "key": "NCR" },
-  { "name": "CAR", "long": "Cordillera Admininstrative Region", "key": "CAR" },
+  { "name": "CAR", "long": "Cordillera Administrative Region", "key": "CAR" },
   { "name": "Region I", "long": "Ilocos Region", "key": "I" },
   { "name": "Region II", "long": "Cagayan Valley", "key": "II" },
   { "name": "Region III", "long": "Central Luzon", "key": "III" },
